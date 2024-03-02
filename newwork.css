@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #ec1c1c;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -17,7 +17,7 @@ header {
 
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #0573e8;
     color: #fff;
     border: none;
     cursor: pointer;
